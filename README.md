@@ -9,6 +9,7 @@ Hands-on Docker labs covering core concepts from basic containers to multi-servi
 | lab1 | First Container | Run an interactive Ubuntu container |
 | lab2 | Nginx | Run Nginx and write /etc/hosts to a file |
 | lab3 | Python Container | Build and run a simple Python print app |
+| lab3-2 | Tetris Game | Run a static web app (Tetris) with Nginx |
 | lab4 | Flask App | Build a Flask web app with Docker |
 | lab5 | Volumes | Persist data with named volumes |
 | lab5-2 | Dockerfile Volumes | VOLUME instruction in Dockerfile |

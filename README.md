@@ -1,6 +1,8 @@
 # TGS-2021010366-docker-kubernetes
 
-Hands-on Docker and Kubernetes labs covering core concepts from basic containers to deployments and services.
+Hands-on Docker and Kubernetes labs for the [WSQ Application Integration with Docker and Kubernetes](https://www.tertiarycourses.com.sg/wsq-application-integration-docker-kubernetes.html) course by Tertiary Infotech Pte Ltd.
+
+**Course Code:** TGS-2021010366 | **Skills Framework:** Applications Integration (ICT-DIT-3003-1.1) under ICT Skills Framework
 
 ## Docker Labs
 
